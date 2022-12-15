@@ -1,0 +1,16 @@
+{
+  "name": "usser-control-main",
+  "version": "1.0.0",
+  "main": "formvalidation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "@splidejs/splide-extension-grid": "^0.4.1",
+    "node": "^19.2.0"
+  },
+  "description": ""
+}
